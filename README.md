@@ -172,3 +172,5 @@ Retorno:
     ...
 ]
 ```
+
+<a href="https://codeclimate.com/github/ludimila/SME-PratoAberto-Edu/maintainability"><img src="https://api.codeclimate.com/v1/badges/7c772fc2ad5177b5f14d/maintainability" /></a>
